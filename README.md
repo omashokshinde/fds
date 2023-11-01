@@ -50,7 +50,7 @@ print(arr)
 
 flag=1;
 while flag==1:
-    print("\n---------------MENU---------------")
+    print("\n---------------MENU--------------")
     print("1. Display Percentage using Insertion Sort")
     print("2. Display Percentage using Shell Sort")
     print("3. EXIT")
