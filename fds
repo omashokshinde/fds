@@ -54,7 +54,7 @@ while flag==1:
     print("2. Display Percentage using Shell Sort")
     print("3. EXIT")
     ch=int(input("\n\nEnter your choice (from 1 to 3) : "))
-
+    
     if ch==1:
         Insertion_Sort(arr)
         a=input("\nDo you want to display top five percentage from the list (yes/no) : ")
